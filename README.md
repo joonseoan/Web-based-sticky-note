@@ -7,5 +7,5 @@
 ### - Utilized two ES6 components, JSON syntax, and JavaScriptDOM/ReactDOM
 ### - Used Event, State, Ref. Value, Update and Remove nodes, and so on.
 ### - To move sticker note, deployed the 'draggable component.
-##### ![Main Page](mainpage.PNG)
+##### ![Main Page](Main.PNG)
 ######
